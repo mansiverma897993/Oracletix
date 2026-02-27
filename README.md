@@ -183,16 +183,6 @@ The protocol focuses on:
 
 ---
 
-## Use Cases
-
-* Concert and festival tickets
-* Conferences and hackathons
-* Sports events
-* Meetups and community gatherings
-* On-chain reputation via event participation
-
----
-
 ## License
 
 MIT
